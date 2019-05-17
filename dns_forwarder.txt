@@ -1,0 +1,6 @@
+192.168.10.5 amazon.com
+192.168.10.5 creditkarma.com
+192.168.10.5 aiv-delivery.net
+192.168.10.5 ckapis.com
+192.168.10.5 aiv-cdn.net
+192.168.10.5 anthem.com
